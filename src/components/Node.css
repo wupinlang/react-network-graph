@@ -1,0 +1,16 @@
+.node .ring {
+  fill: none;
+  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';
+  filter: alpha(opacity=0);
+  opacity: 0;
+  stroke: #6ac6ff;
+  stroke-width: 8px;
+}
+
+.node .outline {
+  cursor: pointer;
+  fill: #a5abb6;
+  pointer-events: all;
+  stroke: #9aa1ac;
+  stroke-width: 2px;
+}

@@ -1,0 +1,31 @@
+{
+  "name": "network-graph",
+  "version": "1.0.0",
+  "description": "neo4j network data visualization component base on d3",
+  "private": true,
+  "dependencies": {
+    "d3v4": "^4.2.2",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "keywords": [
+    "net",
+    "network",
+    "data-viz",
+    "d3.js",
+    "graph",
+    "neo4j",
+    "knowledge"
+  ],
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build"
+  },
+  "devDependencies": {
+    "less": "^3.0.2",
+    "less-loader": "^4.1.0",
+    "react-app-rewire-less": "^2.1.1",
+    "react-app-rewired": "^1.5.2"
+  }
+}
